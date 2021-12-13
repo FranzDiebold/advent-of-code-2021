@@ -301,7 +301,8 @@ spark-warehouse/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,spark,macos,visualstudiocode,jupyternotebooks
 
-.ipython
-.jupyter
-.local
+.ipython/
+.jupyter/
+.local/
 .bash_history
+.metals/
